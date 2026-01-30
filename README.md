@@ -5,6 +5,10 @@
 # 💫 About Me:
 Yo!!! What's up??<br><br>Founder OF Eunonix and Ezyaroha
 
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhnYmhnMG4yd2xzcnh2d3ExdHR3ZTYwemEzdHo4b2EzbGJhcGM4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7GmObZ2BtYZvW/giphy.gif"  />
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniket0x0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-sharma-1b5738294/) 
@@ -16,8 +20,7 @@ Yo!!! What's up??<br><br>Founder OF Eunonix and Ezyaroha
 ![](https://nirzak-streak-stats.vercel.app/?user=AniketOxO&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketOxO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AniketOxO&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -30,9 +33,7 @@ Yo!!! What's up??<br><br>Founder OF Eunonix and Ezyaroha
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhnYmhnMG4yd2xzcnh2d3ExdHR3ZTYwemEzdHo4b2EzbGJhcGM4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7GmObZ2BtYZvW/giphy.gif"  />
-</div>
+
 
 ###
 
