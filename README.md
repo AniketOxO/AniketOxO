@@ -1,4 +1,4 @@
-<h1 align="left">Yo!!! What's up??<br><br>Founder OF Eunonix and Ezyaroha <br><br>Visit: https://www.eunonix.com/</h1> abd  <br>Visit: https://hoshiya.shop//</h1>
+<h1 align="left">Yo!!! What's up??<br><br>Founder OF Eunonix and Ezyaroha <br><br>Visit: https://www.eunonix.com/ and  <br>Visit: https://hoshiya.shop//</h1>
 
 ###
 
