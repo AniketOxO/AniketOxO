@@ -3,7 +3,7 @@
 ###
 
 # 💫 About Me:
-Yo!!! What's up??<br><br>Founder OF Eunonix and Ezyaroha
+Yo!!! What's up??<br><br>Founder OF Eunonix and Scuridx
 
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhnYmhnMG4yd2xzcnh2d3ExdHR3ZTYwemEzdHo4b2EzbGJhcGM4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7GmObZ2BtYZvW/giphy.gif"  />
